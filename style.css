@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+span {
+    font-weight:bold;
+}
+
+body {
+    background: linear-gradient(to right, #ffffff, #7dc0ff);
+    
+}
+
+button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #7dc0ff;
+    color: rgb(15, 0, 99);
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.container img {
+
+    border: 2px solid #000; /* Adiciona uma moldura preta */
+    border-radius: 5px; /* Bordas arredondadas (opcional) */
+    margin-right: 10px; /* Espaço entre a imagem e o texto */
+}
+.text-container {
+    display: flex;
+    flex-direction: column;
+}
