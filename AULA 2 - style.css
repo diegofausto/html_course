@@ -1,0 +1,31 @@
+
+h1{
+color:blue
+
+}
+
+
+
+td {
+color: rgb(34, 0, 255);
+
+}
+
+tr th {
+background-color: rgb(226, 177, 43);
+
+}
+
+body{ 
+    min-height: 100%;
+display: flex;
+justify-content:center;
+align-items: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background: linear-gradient(90deg, #ffffff,#0a090b);
+}
+
+div {
+    background: srgb (red green blue, 0.1
+    );
+}
